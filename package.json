@@ -1,0 +1,14 @@
+{
+  "name": "export-xc-report",
+  "version": "1.0.0",
+  "description": "Export XC report to csv",
+  "author": "Roger L.",
+  "license": "ISC",
+  "dependencies": {
+    "jsonpath": "^1.0.2",
+    "superagent": "^3.8.3",
+    "write": "^2.0.0",
+    "xmlbuilder": "^13.0.2",
+    "yargs": "^13.2.4"
+  }
+}
